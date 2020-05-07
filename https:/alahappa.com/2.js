@@ -1,10 +1,10 @@
-													setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;a></div>").insertAfter($(".loginstat"));  },1000);
+													setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://www.dookmobile.com/'>  دوك موبايل  © 2018</a></div>").insertAfter($(".loginstat"));  },1000);
 													try{
 														
 $(` <center><marquee direction="right" rfdقwidth="99%" id="asim55" onmouseover="this.stop()" onmouseout="لذthis.start()" scrolldelay="0" scrollamount="2" >قوانين الشات ● • في حال ذكر وتبيين اسماء مواقع اخرى تعرضك لحذف العضوية والحظر يرجى من الزوار والمراقبين عدم ذكر اسماء مواقع اخرى ● • وشكرآ لكم</marquee></font><center>
 `).insertBefore('label.nosel.ninr.fl.uzr.label.label-primary');
 
- $(`<a  style="margin-top:-20px;padding :4px;float:right;border-radius:100px;" class="btn d btn-danger fa fa-spin fa-heart fr"></a></div>`).insertBefore('div#d2bc'),$(`<img src ="httpsrq.com/sico/1588619125740.gif" etclass="fr" style="width:100%;margin-top: 1px;">
+ $(`<a  style="margin-top:-20px;padding :4px;float:right;border-radius:100px;" class="btn d btn-danger fa fa-spin fa-heart fr"></a></div>`).insertBefore('div#d2bc'),$(`<img src ="https://sh-irq.com/sico/1588619125740.gif" etclass="fr" style="width:100%;margin-top: 1px;">
 </div>
 <div id="tof3"><center><a id="tof9" href="mobile.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="tofe3" href="sub.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
 <a id="tof3" href="rules.html" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">القوانين</a><div style=" width: 22%; "  id="tof3" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">اتصل بنا</div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary">  </p>راسلنا تليكرام اذا جنت محظور </p> ايـو ال شــمر<i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i>قريبا</p> ايــو ال شمـر <i class="fa fa-comment"></i> Telegram <i class="fa fa-share"></i> قريبا </p> soon <i class="fa fa fa-comment"></i> Telegram <i class="fa fa-share"></i> soon </div></div><center></div></div><center></div>`).insertBefore('.nav-tabs'),$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="https://c.top4top.io/p_1471yyke01.gif" width="100%">`),$('.nav-tabs').addClass('fl').css('width','100%'),$(`
@@ -18,67 +18,3 @@ $('.dpnl').append(`   <div id="mic" style="height: 100%;width:100%;" class="brea
       </div>`);
 $('#d0').append(`<label title="الإذاعه" href="#" onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},100);$('.dpnl').show();"
         data-toggle="tab" data-target="#mic" class="ae fa label label-primary fa-microphone ">الاذاعة</label>`)
-
-													}
-														catch (e){
-															console.log(e)
-														}
-												</script>
-												<script>
-													function saveColor(){
-														var dfsdfsdf = $('.label-primary, .btn-primary').css('background-color');
-														console.log(dfsdfsdf)
-														var colorLo = {bgcolor:$('.bgcolor').val(),btcolor:$('.btcolor').val(),bocolor:$('.bocolor').val(),hicolor:$('.hicolor').val()}
-														localStorage.setItem('colorLo', JSON.stringify(colorLo));
-														getLoColor(JSON.stringify(colorLo))
-														$('.divColorLo').slideToggle();
-													}
-													var hexDigits = new Array
-													("0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f"); 
-													function rgb2hex(rgb) {
-														rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
-														return  hex(rgb[1]) + hex(rgb[2]) + hex(rgb[3]);
-													}
-													function hex(x) {
-														return isNaN(x) ? "00" : hexDigits[(x - x % 16) / 16] + hexDigits[x % 16];
-													}
-													function getLoColor(c){
-														var lo = localStorage.getItem('colorLo')||c;
-														if(lo){
-															var stLoc = localStorage.getItem('colorSt');
-															var loJs = JSON.parse(lo)
-															for(var i in loJs){
-																$('.'+i).val(loJs[i]);
-																switch(i){
-																	case 'bgcolor':
-																		if(loJs[i]==="000000")loJs[i] = rgb2hex($('.bg').css('background-color'))
-																		break;
-																	case 'btcolor':
-																		if(loJs[i]==="000000")loJs[i] = rgb2hex($('.label-primary, .btn-primary').css('background-color'))
-																		break;
-																	case 'bocolor':
-																		if(loJs[i]==="000000")loJs[i] = rgb2hex($('.border').css('border-color'))
-																		break;
-																	case 'hicolor':
-																		if(loJs[i]==="000000")loJs[i] = rgb2hex($('.light').css('background-color'))
-																		break;
-																}
-															}
-															var aa = '<style class="colorLo">.border{border-color: #'+loJs.bocolor+'!important;} .primaryborder{border-color: #'+loJs.btcolor+'!important;} .label-primary, .btn-primary {background-color: #'+loJs.btcolor+'!important;} .light{background-color: #'+loJs.hicolor+'!important;} .bg{background-color: #'+loJs.bgcolor+';}</style>';
-															if(stLoc && !c)aa = stLoc;
-															localStorage.setItem('colorSt', aa);
-															var loHtml = $('.colorLo')
-															if(loHtml.length >0)loHtml.text($(aa).text());
-															else $('head').append(aa);
-														}else{
-															$('.colorLo').remove();
-															$('.bgcolor,.btcolor,.hicolor,.bocolor').val('000000');
-															$('.bgcolor,.btcolor,.hicolor,.bocolor').css('background-color','#000000');
-														}
-													}
-													getLoColor()
-													$('.ssss').click(function(e){
-														e.stopPropagation();
-														$('.divColorLo').slideToggle();
-													})
-												
