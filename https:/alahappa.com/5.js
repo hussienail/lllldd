@@ -13,11 +13,4 @@ $(` <center><marquee direction="right" rfdقwidth="99%" id="HOs55" onmouseover="
 $(".fa-gear").text("الاعدادات ").css("width","");
 
 
-													}
-														catch (e){
-															console.log(e)
-														}
-												</script>
-												<script>
-													function saveColor(){
-														var dfsdfsdf = $('.label-primary, .b
+												
