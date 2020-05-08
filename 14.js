@@ -1,4 +1,4 @@
-$(`<img src="https://chat-iraq.com/sico/z1e5p1kd5v10.gif" class="fr" style="width:100%;margin-top: 1px;">
+$(`<img src="https://l.top4top.io/p_1588butbx1.jpg" class="fr" style="width:100%;margin-top: 1px;">
  `).insertBefore('.nav-tabs');
 
 $(`<style>
