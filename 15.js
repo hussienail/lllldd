@@ -8,11 +8,11 @@ if(location.protocol!='https:'){location.protocol='https:';}
 bct=100;msgt=100;
 vchat=true;
 $(`<div style=" color: #006E69;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', 
-Fontawesome">الاعلانات للضرورة فقط</div>`).insertBefore('span.fl.fa.fa-send');
+Fontawesome">الاعلانات </div>`).insertBefore('span.fl.fa.fa-send');
 $(".fa-gear").text("الاعدادات ").css("width","");
 $(".dpnl").append(`<div id="mic"style="text-align: center;font-family: el messiri,FontAwesome!important;color: #610A00; height: 100%;width:100%;"class="break light tab-pane border">نتمنى لكم اجمل وقات</BR><p> للطربكه وركص شغل </p></p><iframe width="77%" height="30%" src="https://www.youtube.com/embed/OFeNwGOjaK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><img src="https://g.top4top.io/p_1572nrhl21.gif"style="width:%;margin-top: 0px;"></BR></BR> </BR><center></div><center></div>`), $('#d0').append(`<label title="مقهى المحبه"href="#"onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();"data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-tv"> </label>`);width:100%;"class="break light tab-pane border">نتمنى لكم اجمل وقات</BR><p> شاشة عسل تايم </p></p><iframe width="77%" height="30%" src="https://www.youtube.com/embed/Tpls4YQYqIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><img src="https://g.top4top.io/p_1572nrhl21.gif"style="width:%;margin-top: 0px;"></BR></BR> </BR><center></div><center></div>`), $('#d0').append(`<label title="مقهى عسل تـايم"href="#"onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();"data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-tv"> </label>`);
 $ ( ` <center> <div style =" width: 100?؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa 
 fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" 
 aria-expanded = "false" aria-controls = 
-"collapseExample"> منــورينَ جميعاً : عسل تايم</ div> <div class = "" id = "collapseExample"> <center> </ i> </ 
+"collapseExample"> منــورينَ جميعاً : المحبه</ div> <div class = "" id = "collapseExample"> <center> </ i> </ 
 div> <center> ` ). insertBefore ( '#d2' );
