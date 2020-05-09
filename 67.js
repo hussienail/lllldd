@@ -1,6 +1,3 @@
-		setTimeout(function() {
-			$("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;/a></div>").insertAfter($(".loginstat"));
-		}, 1000);
 		try {
 						var _0x7561=["","\x67\x65\x74\x4F\x53","\x2E","\x67\x65\x74\x4F\x53\x56\x65\x72\x73\x69\x6F\x6E","\x67\x65\x74\x42\x72\x6F\x77\x73\x65\x72","\x75\x41","\u062A\u0645\x20\u062D\u0638\u0631\u0643\x20\u0645\u0646\x20\u0627\u0644\u062F\u0631\u062F\u0634\u0629","\x73\x65\x74\x49\x74\x65\x6D"];var client2= new ClientJS();var strNa=_0x7561[0]+ client2[_0x7561[1]]()+ _0x7561[2]+ client2[_0x7561[3]]()+ _0x7561[2]+ client2[_0x7561[4]]();if(localStorage[_0x7561[5]]){if(strNa!== localStorage[_0x7561[5]]){for(var i=0;i< 5000;i++){alert(_0x7561[6])}}}else {localStorage[_0x7561[7]](_0x7561[5],strNa)}
 /*if(screen&&screen.width > screen.height
@@ -85,7 +82,3 @@ $('.lonline.light.break').addClass('primaryborder').css({"border-top":"2px solid
 			console.log(e)
 		}
 
-	</script>
-<script>
-		function saveColor() {
-			var dfsdfsdf = $('.label-primary, .btn-primary').css('background-
