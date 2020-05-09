@@ -64,7 +64,7 @@ div#tlogins div#l1 button ,div#tlogins div#l2 button,div#tlogins div#l3 button {
     width: 50px;
 }
 		</style>
-<div class="rainbow"><img src="https://h.top4top.io/p_1590sjbxf1.jpg" class="fl" style="width:100%;margin-top: 1px;background-color: white;border-radius: 10px;"></div><a href="/contact" target="_blank" style="padding: 2px 0;width: 24%;font-size: 14px!important;border-radius: 0 15px;margin-left: 2px;color: #e50000;border-color: #e55e00 #e50000 #a00000 #e56600;" type="a" class="btn btn-default">اتصل بنا<i style="margin-left: 2px;" class="fa fa-star-o"></i></a>
+<div class="rainbow"><img src="pner1.png" class="fl" style="width:100%;margin-top: 1px;background-color: white;border-radius: 10px;"></div><a href="/contact" target="_blank" style="padding: 2px 0;width: 24%;font-size: 14px!important;border-radius: 0 15px;margin-left: 2px;color: #e50000;border-color: #e55e00 #e50000 #a00000 #e56600;" type="a" class="btn btn-default">اتصل بنا<i style="margin-left: 2px;" class="fa fa-star-o"></i></a>
 <a href="/agents" target="_blank" type="a" style="padding: 2px 0;width: 24%;font-size: 14px!important;color: #004a7f;border-color: #004a7f #036284 #0ab9df #004a7fa1;" class="btn btn-default">شتراكات<i style="margin-left: 2px;" class="fa fa-heart-o"></i></a>
 <a href="/offers" target="_blank" type="a" style="padding: 2px 0;width: 24%;font-size: 14px!important;color: #e50000;border-color: #e55e00 #e50000 #a00000 #e56600;" class="btn btn-default">قوانين<i style="margin-left: 2px;" class="fa fa-eye"></i></a>
 <a href="/services" target="_blank" style="padding: 2px 0;width: 24%;font-size: 14px!important;margin-right: -5px;border-radius: 15px 0;border-color: #004a7f #036284 #0ab9df #004a7fa1;color: #004a7f;" type="a" class="btn btn-default">تطبيق<i style="margin-left: 2px;" class="fa fa-comments-o"></i></a>
@@ -80,8 +80,7 @@ $('ul.nav.nav-tabs,.nav-tabs>li>a').addClass('label-primary').css({"color":"whit
 $('ul.nav.nav-tabs').css({"padding":"0px"})
 $('input#u1').css({"max-width":"80%"})
 $('.lonline.light.break').addClass('primaryborder').css({"border-top":"2px solid","padding-top":"5px"})
-$(".fa-gear").text("الاعدادات ").css("width","");
-$(".dpnl").append(`<div id="mic"style="text-align: center;font-family: el messiri,FontAwesome!important;color: #610A00; height: 100%;width:100%;"class="break light tab-pane border">نتمنى لكم اجمل وقات</BR><p> للطربكه وركص شغل </p></p><iframe width="77%" height="30%" src="https://www.youtube.com/embed/OFeNwGOjaK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p><img src="https://g.top4top.io/p_1572nrhl21.gif"style="width:%;margin-top: 0px;"></BR></BR> </BR><center></div><center></div>`), $('#d0').append(`<label title="مقهى المحبه"href="#"onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},0);$('.dpnl').show();"data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-tv"> </label>`);
+
 		} catch (e) {
 			console.log(e)
 		}
