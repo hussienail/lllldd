@@ -822,5 +822,5 @@ hr {
     /* border-top: 1px solid #eee; */
 }
 .broadcasters>div>.prod>hr {
-    visibility: collapse;
+margin: -10;
 }
