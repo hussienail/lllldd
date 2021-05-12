@@ -813,5 +813,5 @@ display: block;
     background-image: url(https://d.top4top.io/p_1939vltqv1.gif);
 }
 .fa-volume-off:before {
-    content: "\f026";
+    visibility: collapse;
 }
