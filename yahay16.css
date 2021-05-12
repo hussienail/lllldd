@@ -770,6 +770,8 @@ position: relative;
     cursor: pointer;
     vertical-align: middle;
     text-align: center;
+    top: 74px;
+
 }
 .fa-microphone:before {
     position: absolute;
