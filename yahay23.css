@@ -813,6 +813,8 @@ display: block;
     filter: invert(1);
     background-size: contain;
     background-image: url(https://d.top4top.io/p_1939vltqv1.gif);
+    right: 35px;
+
 }
 .fa-volume-off:before {
     visibility: collapse;
