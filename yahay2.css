@@ -757,4 +757,27 @@ a.btn.minix.fa.fa-times.fr {
     width: 13px;
     margin-right: 2px;
 }
-.
+.broadcasters>div>.prod {
+position: absolute;
+    border-radius: 5px;
+    background-color: #daa520;
+    top: 1.8rem;
+    width: 5rem;
+    z-index: 2;
+    left: -1.7rem;
+    padding: .4rem;
+    height: auto;
+    display: none;
+    text-align: center;
+    box-shadow: 0 0 10px 0 var(--cyan);
+}
+.fa-microphone:before {
+    position: absolute;
+    content: "";
+    top: 0px;
+    margin-top: 0px;
+    margin-left: -16px;
+    width: 32px;
+    height: 32px;
+    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat !important;
+}
