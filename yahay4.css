@@ -758,18 +758,15 @@ a.btn.minix.fa.fa-times.fr {
     margin-right: 2px;
 }
 .broadcasters>div>.prod {
-position: absolute;
-    border-radius: 5px;
-    background-color: #daa520;
-    top: 1.8rem;
-    width: 5rem;
-    z-index: 2;
-    left: -1.7rem;
-    padding: .4rem;
-    height: auto;
-    display: none;
+float: right;
+    width: 50px;
+    height: 50px;
+    color: palevioletred;
+    border: 2px solid;
+    margin: 0 1px;
     text-align: center;
-    box-shadow: 0 0 10px 0 var(--cyan);
+    border-radius: 10px 5px 10px 5px;
+    background-color: white;
 }
 .fa-microphone:before {
     position: absolute;
