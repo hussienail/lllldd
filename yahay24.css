@@ -846,3 +846,16 @@ display: block;
     direction: rtl;
     margin: -9PX;
 }
+a#as0 {
+    text-decoration: none;
+    margin-right: 6px;
+    float: right;
+    border-radius: 3px;
+    border-color: #e6e6fa;
+    padding: 6px;
+    margin-top: 2px;
+    color: red;
+    width: 106px;
+    text-align: center;
+    font: normal normal normal 14px/1 FontAwesome;
+}
