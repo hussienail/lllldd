@@ -766,19 +766,17 @@ position: relative;
     color: #000;
     display: inline-block;
     font-size: 1.1rem;
-    margin: 0 .3rem;
+    margin: 0 .6rem;
     border: 3px solid #989594;
     cursor: pointer;
     vertical-align: middle;
     text-align: center;
 }
 .fa-microphone:before {
-    position: absolute;
-    content: "";
-    top: 0px;
-    margin-top: 0px;
-    margin-left: -16px;
-    width: 32px;
-    height: 32px;
-    background: url(https://g.top4top.io/p_1952d2qxr1.png)100% 100% / 100% 100% no-repeat !important;
+width: 30px;
+    height: 30px;
+    border: 5px solid #000;
+    filter: invert(1);
+    background-size: contain;
+    background-image: url(https://d.top4top.io/p_1939vltqv1.gif);
 }
