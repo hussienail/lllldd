@@ -823,11 +823,9 @@ hr {
 }
 .broadcasters>div>.prod>hr {
 display: block;
-    position: absolute;
     bottom: -0.4rem;
     z-index: 1;
     font-family: el messiri,FontAwesome !important;
-    background-color: #000000cc;
     overflow: hidden;
     color: #FFF;
     text-align: center;
