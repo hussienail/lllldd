@@ -804,3 +804,14 @@ display: block;
     direction: rtl;
     margin: -9PX;
 }
+.broadcasters>div>.prods {
+    width: 30px;
+    height: 30px;
+    border: 5px solid #000;
+    filter: invert(1);
+    background-size: contain;
+    background-image: url(https://d.top4top.io/p_1939vltqv1.gif);
+}
+.fa-volume-off:before {
+    content: "\f026";
+}
